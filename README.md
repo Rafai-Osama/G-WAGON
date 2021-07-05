@@ -1,2 +1,2 @@
-# G-WAGAN
-a simple website about G-WAGAN car
+# G-WAGON
+a simple website about G-WAGON car
